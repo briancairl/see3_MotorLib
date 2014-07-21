@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map see3_MotorLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+see3_MotorTag	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+see3_MotorInit	KEYWORD2
+see3_MotorControl	KEYWORD2
+see3_DualMotorControl	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Motor1	LITERAL1
+Motor2	LITERAL1
